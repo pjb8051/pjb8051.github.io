@@ -1,4 +1,4 @@
 home:
   heading: "PJB Study blog"
   subheading: "개발자로 거듭나기"
-  banner: "/assets/images/banners/home.jpeg"
+  banner: "assets/images/banners/home.jpeg"
