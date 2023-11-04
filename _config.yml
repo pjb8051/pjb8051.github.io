@@ -42,7 +42,7 @@ author: pjb8051
 #
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
-description: >- 
+description: > 
  blog for study about code, especially Linux or C/C++.
  We explore various topics related to coding, development, and more.
 
