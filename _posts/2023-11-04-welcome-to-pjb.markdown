@@ -1,8 +1,21 @@
 ---
 layout: post
 title:  "Welcome to PJB's blog"
+subtitle: 블로그를 시작하는 마음가짐
+author: pjb8051
 date:   2023-11-04 19:13:21 +0900
 categories: Introduce 
+banner:
+  image: "/assets/images/welcome.jpg"
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: jekyll theme yat
+top: 1
+sidebar: []
 ---
 이 블로그는 비전공자인 내가 개발자가 되기 위한 블로그이다.
 
