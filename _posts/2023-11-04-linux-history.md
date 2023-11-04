@@ -18,7 +18,9 @@ sidebar: []
 ---
 
 ![](/assets/images/linux_history.png)
-Link: [이미지 출처][https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4]
+[이미지 출처][linux-docs]
+
+[linux-docs]: https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4
 
 ## 1960년대 후반
 1. 1965년 MIT, AT&T 벨 연구소, General Electric에서는 Multics라는 실험적인 운영체제를 공동으로 개발
