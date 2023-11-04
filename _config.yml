@@ -42,8 +42,9 @@ author: pjb8051
 #
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
-description: >- # this means to ignore newlines until "baseurl:"
-  blog for study about code. Especially Linux or C/C++
+description: >- 
+ blog for study about code, especially Linux or C/C++.
+ We explore various topics related to coding, development, and more.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
