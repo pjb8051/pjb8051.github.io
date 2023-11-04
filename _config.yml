@@ -164,7 +164,7 @@ yat:
    home:
      heading: "PJB Study blog"
      subheading: "개발자로 거듭나기"
-     banner: "C:/GitBlog/pjb8051.github.io/assets/images/banners/home.jpeg"
+     banner: "C:\\GitBlog\\pjb8051.github.io\\assets\\images\\banners\\home.jpeg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
