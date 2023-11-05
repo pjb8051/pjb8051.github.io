@@ -13,7 +13,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: PJB Linux GitHub
+tags: PJB Linux C/C++ GitHub
 sidebar: []
 ---
 이 블로그는 비전공자인 내가 개발자가 되기 위한 블로그이다.
